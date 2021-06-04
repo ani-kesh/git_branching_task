@@ -1,4 +1,4 @@
-# Advance Git
+# Advanced Git
 
 - [maxPossible.js](maxPossible.js)
 - [users.js](users.js)
