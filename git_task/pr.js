@@ -1,7 +1,7 @@
 "use strict";
 
 function myBestCode() {
-  return "My best code";
+  return "!";
 }
 
 console.log(myBestCode());
